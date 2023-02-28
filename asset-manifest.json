@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7839e75b.css",
+    "main.js": "/static/js/main.dda45dd4.js",
+    "static/css/239.fae1acc8.chunk.css": "/static/css/239.fae1acc8.chunk.css",
+    "static/js/239.c99e6e8e.chunk.js": "/static/js/239.c99e6e8e.chunk.js",
+    "static/media/img1.jpg": "/static/media/img1.8678dab7a7d81aec094e.jpg",
+    "static/media/img6.jpg": "/static/media/img6.fa07aa820513ba64a8e4.jpg",
+    "static/media/img8.jpg": "/static/media/img8.cc95fd988a4cf3ed455f.jpg",
+    "static/media/img5.jpg": "/static/media/img5.c676bf521c2a99c548b3.jpg",
+    "static/media/img2.jpg": "/static/media/img2.d6dc6c0e87f359bee56e.jpg",
+    "static/media/img7.jpg": "/static/media/img7.93d2d52896c7f6592da5.jpg",
+    "static/media/logo.png": "/static/media/logo.1b3980e8705033d70069.png",
+    "static/media/img4.jpg": "/static/media/img4.63e7db8e9755a3e30f54.jpg",
+    "static/media/img3.jpg": "/static/media/img3.5d34bb8e6a3a49adf7bd.jpg",
+    "static/media/404 error lost in space-amico.svg": "/static/media/404 error lost in space-amico.e8f9d3a044fd5fb56ed723c84c2e350d.svg",
+    "static/media/han-solo.mp4": "/static/media/han-solo.db435084c403f6b37d4d.mp4",
+    "static/media/question.png": "/static/media/question.ad7fd3c81c88c23ebbcc.png",
+    "static/media/cross .png": "/static/media/cross .cdbabfb7ec11ac83746c.png",
+    "static/media/star-wars.svg": "/static/media/star-wars.25f7963b18488b771ce723166d926041.svg",
+    "static/media/favorite-fill.svg": "/static/media/favorite-fill.c18b16ad4ab0e7f3f9e8d1c4142ed9bc.svg",
+    "static/media/favorite.svg": "/static/media/favorite.afeaed4bdec72322c2ebe3f1bd4c7963.svg",
+    "static/media/loader.svg": "/static/media/loader.2f8053d20f931d9e7974ba4bf20671f4.svg",
+    "static/media/cancel.svg": "/static/media/cancel.b69cec7594fb67865300bf53ff6f6b50.svg",
+    "static/media/bookmark.svg": "/static/media/bookmark.113ef259aa8379a53f6fe050bdd2a242.svg",
+    "index.html": "/index.html",
+    "static/media/back.svg": "/static/media/back.80d75a51fef8c5e72188ffaf7438ed85.svg",
+    "main.7839e75b.css.map": "/static/css/main.7839e75b.css.map",
+    "main.dda45dd4.js.map": "/static/js/main.dda45dd4.js.map",
+    "239.fae1acc8.chunk.css.map": "/static/css/239.fae1acc8.chunk.css.map",
+    "239.c99e6e8e.chunk.js.map": "/static/js/239.c99e6e8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7839e75b.css",
+    "static/js/main.dda45dd4.js"
+  ]
+}

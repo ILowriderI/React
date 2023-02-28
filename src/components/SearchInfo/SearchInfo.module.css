@@ -1,0 +1,43 @@
+.list__container {
+    column-count: 3;
+    margin: 20px 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.list__item a {
+    margin: 10px;
+    display: inline-flex;
+    color: #023047;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    box-shadow:  0 0 10px 5px #6a040f;
+    border-radius: 10px;
+    width: 75%;
+}
+.person__photo {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    object-position: top center;
+    border-radius: 10px;
+}
+.person__name {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0 17px;
+    color: #fcf6bd;
+    text-shadow: 0 0 3px  white,
+0 0 25px #76c893;
+}
+.person__comment {
+    color: #fcf6bd;
+}
+
+@media screen and (max-width: 850px) {
+    .list__container {
+        column-count: 2;
+    }
+}

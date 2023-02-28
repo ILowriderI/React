@@ -1,0 +1,44 @@
+.wrap{
+    margin-top: 40px;  
+  }
+  
+  .person__name{
+  background-color: #0077b6;
+  color: #fcf6bd;
+  font-size: 18px;
+  padding: 7px;
+  font-weight: 600;
+  border-radius: 5px 5px 5px 0;
+  }
+  .cont{
+      border-left: 6px solid #0077b6;
+      display: flex;
+      flex-wrap: wrap;
+      padding: 20px;
+      border-radius: 5px ;
+  }
+  .photo__cont{
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 280px;
+  height: 350px;
+  }
+  .favorite{
+    position: absolute;
+    top: -15px;
+    right: -15px;
+    width: 35px;
+    height: 35px;
+    object-fit: contain;
+    object-position: center center;
+    filter: drop-shadow(0px 0px 7px #000);
+    cursor: pointer;
+  }
+  .person_img{
+  width: 100%;
+  
+ 
+  object-position: center center;
+  border-radius: 7px;
+  }

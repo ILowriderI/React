@@ -31,7 +31,7 @@ const PersonPlanetsPage = ({setErrorApi}) =>{
    
     useEffect(() => {
         (async () => {
-           // setPersonFavorite(!!storeData[id]);
+          
            storeData['planet'+id]? setPersonFavorite(true):setPersonFavorite(false);
             setPersonId(id);
            

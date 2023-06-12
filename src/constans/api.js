@@ -1,7 +1,4 @@
 
-//const SWAPI_PLANETS = 'planets';
-//const SWAPI_STARSHIPS = 'starships';
-//const SWAPI_VEHICLES = 'vehicles';
 
 
 
